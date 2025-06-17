@@ -1,0 +1,14 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "@navigation/*": ["navigation/*"],
+      "@contexts/*": ["contexts/*"],
+      "@components/*": ["components/*"],
+      "@screens/*": ["screens/*"],
+      "@types/*": ["types/*"]
+    }
+  },
+  "include": ["src"]
+}
