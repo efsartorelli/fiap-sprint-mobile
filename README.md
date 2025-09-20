@@ -85,13 +85,7 @@ CashControl/
 
 4. Inicie o projeto:
    npx expo start
-
----------------------------------------
-▶️ Link do FIGMA
----------------------------------------
-
-1. https://www.figma.com/design/rL0GIANtm7AQXPnQ03zbaK/Untitled?node-id=0-1&p=f&t=iYpO5Goe6zZyctVe-0
-
+   
 ---------------------------------------
 📦 Instale também:
 ---------------------------------------
